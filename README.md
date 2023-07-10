@@ -1,5 +1,7 @@
 # Physically Realizable Natural-looking Clothing Textures Evade Person Detectors via 3D Modeling
 
+[TOC]
+
 #### 1. Installation
 ### Requirements
 All the codes are tested in the following environment:
@@ -11,7 +13,9 @@ All the codes are tested in the following environment:
 * TensorboardX 2.5.1
 
 #### 2. Preparation
-You need to download the yolov3 weights by
+The data and checkpoints are shared by [Google Drive](https://drive.google.com/file/d/1Uddyu5pjFymjX66AA4HnEKk3fA7r8UVT/view). You need to download it and place the *data* folder in the root directory of this project. If you want to evaluate the checkpoints, place the *results* folder in the root directory and follow the instructions in the section of [Evaluation](# 4. Evaluation).
+
+If you are going to use yolov3, you need to download its weights by
 ```
 ./arch/weights/download_weights.sh
 ```
