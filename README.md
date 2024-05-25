@@ -8,10 +8,15 @@ This is the official repository for the paper [Physically Realizable Natural-loo
 All the codes are tested in the following environment:
 * Linux (Ubuntu 16.04.6)
 * Python 3.8.13
-* PyTorch 1.10.1
-* pytorch3d 0.6.2
 * CUDA 11.0
+* PyTorch 1.10.1
+* Numpy 1.22.3
+* Torchvision 0.11.2
+* pytorch3d 0.6.2
 * TensorboardX 2.5.1
+* Jupyterlab 3.3.2
+* Tqdm 4.64.0
+* Easydict 1.9
 
 #### 2. Preparation
 The data and checkpoints are shared by [Google Drive](https://drive.google.com/file/d/1Uddyu5pjFymjX66AA4HnEKk3fA7r8UVT/view). You need to download it and place the *data* folder in the root directory of this project. If you want to evaluate the checkpoints, place the *results* folder also in the root directory and follow the instructions in the section of [Evaluation](#4-evaluation).
