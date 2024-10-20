@@ -2,9 +2,13 @@
 
 This is the official repository for the paper [Physically Realizable Natural-looking Clothing Textures Evade Person Detectors via 3D Modeling](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Physically_Realizable_Natural-Looking_Clothing_Textures_Evade_Person_Detectors_via_3D_CVPR_2023_paper.html).
 
+<p align="center">
+  <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="60%"/>
+  <img src="readme_figs/physical_eval.jpg" alt="drawing" width="60%"/>
+</p>
+
 <!-- toc -->
-#### 1. Installation
-### Requirements
+#### 1. Requirements
 All the codes are tested in the following environment:
 * Linux (Ubuntu 16.04.6)
 * Python 3.8.13
