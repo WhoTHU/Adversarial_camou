@@ -3,8 +3,13 @@
 This is the official repository for the paper [Physically Realizable Natural-looking Clothing Textures Evade Person Detectors via 3D Modeling](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Physically_Realizable_Natural-Looking_Clothing_Textures_Evade_Person_Detectors_via_3D_CVPR_2023_paper.html).
 
 <p align="center">
-  <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="60%"/>
   <img src="readme_figs/physical_eval.jpg" alt="drawing" width="60%"/>
+</p>
+
+The 3D clothes models are augmented by the **topologically plausible projection** based on fast 2D augmentation techniques to avoid a substantial 3D computational burden.
+
+<p align="center">
+  <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="60%"/>
 </p>
 
 <!-- toc -->
