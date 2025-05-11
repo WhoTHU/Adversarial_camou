@@ -9,10 +9,10 @@ This is the official repository for the paper [Physically Realizable Natural-loo
 The 3D clothes models are augmented by the **topologically plausible projection** based on fast 2D augmentation techniques to avoid a substantial 3D computational burden.
 
 <p align="center">
-  <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="60%"/>
-  <img src="readme_figs/human0.gif" alt="Human 0" width="10%"/>
-  <img src="readme_figs/human1.gif" alt="Human 1" width="10%"/>
-  <img src="readme_figs/human2.gif" alt="Human 2" width="10%"/>
+  <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="50%"/>
+  <img src="readme_figs/human0.gif" alt="Human 0" width="15%"/>
+  <img src="readme_figs/human1.gif" alt="Human 1" width="15%"/>
+  <img src="readme_figs/human2.gif" alt="Human 2" width="15%"/>
 </p>
 
 <!-- toc -->
