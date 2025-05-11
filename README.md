@@ -10,16 +10,10 @@ The 3D clothes models are augmented by the **topologically plausible projection*
 
 <p align="center">
   <img src="readme_figs/aug_compare2.jpg" alt="drawing" width="60%"/>
-  <img src="readme_figs/human0.gif" alt="Human 0" height="330px"/>
-  <img src="readme_figs/human1.gif" alt="Human 1" height="330px"/>
-  <img src="readme_figs/human2.gif" alt="Human 2" height="330px"/>
+  <img src="readme_figs/human0.gif" alt="Human 0" width="10%"/>
+  <img src="readme_figs/human1.gif" alt="Human 1" width="10%"/>
+  <img src="readme_figs/human2.gif" alt="Human 2" width="10%"/>
 </p>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="readme_figs/human0.gif" alt="Human 0" height="330px"/>
-  <img src="readme_figs/human1.gif" alt="Human 1" height="330px"/>
-  <img src="readme_figs/human2.gif" alt="Human 2" height="330px"/>
-</div>
 
 <!-- toc -->
 #### 1. Requirements
